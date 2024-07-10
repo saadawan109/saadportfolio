@@ -1,0 +1,99 @@
+/* NAVBAR SECTION  */
+
+
+.myNavbar {
+    background-color: #10131A;
+}
+
+.navBtn {
+    background-color: #2EB2D3;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+/* HERO SECTION  */
+
+
+.hero {
+    background: rgb(16, 19, 26);
+    background: linear-gradient(90deg, rgba(16, 19, 26, 1) 35%, rgba(46, 178, 211, 1) 100%);
+    height: 82vh;
+}
+
+.hero-text {
+    padding-top: 70px;
+
+}
+
+.text-developer {
+    color: #2EB2D3;
+    font-size: 55px;
+}
+
+.hero-name {
+    font-size: 55px;
+}
+
+
+
+/* SERVICES SECTION  */
+
+
+
+.services {
+    background-color: #10131A;
+}
+
+.text-services {
+    color: #2EB2D3;
+}
+
+.service-boreder {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #054352;
+}
+
+.service-icon {
+    color: #2EB2D3;
+}
+
+
+/* Experience Section */
+
+
+.experience {
+    background: rgb(10, 118, 146);
+    background: linear-gradient(90deg, rgba(10, 118, 146, 1) 0%, rgba(16, 19, 26, 1) 100%);
+}
+
+
+
+/* More About Section */
+
+
+
+.moreAbout{
+    background-color: #10131A;
+}
+.about{
+    color: #2EB2D3;
+}
+.feild{
+    color: #2EB2D3;
+}
+
+
+/* Project Section */
+
+.projects{
+    background: rgb(16, 19, 26);
+    background: linear-gradient(90deg, rgba(16, 19, 26, 1) 55%, rgba(46, 178, 211, 1) 100%);
+}
+.card_project{
+    border-style: solid;
+    border-width: 3px;
+    border-color: #054352;
+
+    background-color: #10131A;
+}
