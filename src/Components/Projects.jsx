@@ -142,7 +142,7 @@ const Projects = () => {
                                     <p className="card-text text-secondary">
                                         FrontEnd Website About the Food
                                     </p>
-                                    <a href="https://themewagon.github.io/feane/" className="btn btn-info text-white btn-sm">
+                                    <a href="https://restoran-project-seven.vercel.app/" className="btn btn-info text-white btn-sm">
                                         Go To Website
                                     </a>
                                 </div>
