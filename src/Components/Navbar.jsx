@@ -8,7 +8,7 @@ const Navbar = () => {
             <nav className="navbar myNavbar navbar-expand-lg">
                 <div className="container py-3">
                     <a href="#" className='navLogo'>
-                        <img src={logo} style={{height:60}} alt="" />
+                        <img src={logo} style={{ height: 60 }} alt="" />
                     </a>
                     <button
                         className="navbar-toggler"
@@ -47,9 +47,9 @@ const Navbar = () => {
 
                         </ul>
                         <form className="d-flex">
-                            <button className='rounded-pill border-0 navBtn text-white py-2' type="submit">
-                                Contact
-                            </button>
+                                <a href="https://drive.google.com/file/d/1VkIqZDJLZz8YT9hnYVlbzb_6Vtu0fDi2/view?usp=drivesdk" target='_blank' className='rounded-pill border-0 btn navBtn text-white py-2'>Resume</a>
+                            
+                                
                         </form>
                     </div>
                 </div>
