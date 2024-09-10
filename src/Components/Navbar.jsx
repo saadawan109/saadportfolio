@@ -41,7 +41,7 @@ const Navbar = () => {
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link text-white mx-3" href="#">
-                                    Reviws
+                                    Reviews
                                 </a>
                             </li>
 
