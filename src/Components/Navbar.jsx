@@ -25,25 +25,21 @@ const Navbar = () => {
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item">
 
-                                <a className="nav-link text-white active mx-3" aria-current="page" href="#">
-                                    Home
+                                <a className="nav-link text-white active mx-3" aria-current="page" href="#services">
+                                    Services
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-white mx-3" href="#">
+                                <a className="nav-link text-white mx-3" href="#about">
                                     About Me
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-white mx-3" href="#">
+                                <a className="nav-link text-white mx-3" href="#projects">
                                     My Projects
                                 </a>
                             </li>
-                            <li className="nav-item">
-                                <a className="nav-link text-white mx-3" href="#">
-                                    Reviews
-                                </a>
-                            </li>
+                            
 
                         </ul>
                         <form className="d-flex">

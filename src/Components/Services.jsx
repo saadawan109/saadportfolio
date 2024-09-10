@@ -4,7 +4,7 @@ const Services = () => {
     return (
         <>
 
-            <section className='services'>
+            <section className='services' id='services'>
                 <div className="container">
                     <div className="row py-5">
                         <div className="col-md-6">

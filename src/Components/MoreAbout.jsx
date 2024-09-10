@@ -4,9 +4,9 @@ const MoreAbout = () => {
     return (
         <>
 
-            <section className='moreAbout'>
+            <section className='moreAbout py-5' id='about'>
 
-                <div className='text-center py-5'>
+                <div className='text-center'>
                     <h2 className='text-white'>More <span className='about'>About</span> Me</h2>
                     <p className='text-secondary fst-italic'>"A great web developer transforms ideas into interactive, seamless digital experiences."</p>
                 </div>
