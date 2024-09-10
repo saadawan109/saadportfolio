@@ -139,6 +139,25 @@ const MoreAbout = () => {
 
                                 </div>
 
+                                <div className='mt-3'>
+                                    <div className='row'>
+                                        <h6 className='text-white col-md-11'>MongoDB</h6>
+                                        <h6 className='text-white col-md-1'>75%</h6>
+                                    </div>
+                                    
+                                    <div
+                                        className="progress"
+                                        role="progressbar"
+                                        aria-label="Info example"
+                                        aria-valuenow={95}
+                                        aria-valuemin={0}
+                                        aria-valuemax={100}
+                                    >
+                                        <div className="progress-bar bg-info" style={{ width: "75%" }} />
+                                    </div>
+
+                                </div>
+
                             </div>
                         </div>
 
