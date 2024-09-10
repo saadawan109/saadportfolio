@@ -50,7 +50,7 @@ const Footer = () => {
                                 Lodhran, Punjab, Pakistan
                                 <br />
                                 Email:{" "}
-                                <a href="mailto:your.email@example.com" className='text-secondary text-decoration-none'>your.email@example.com</a>
+                                <a href="mailto:your.email@example.com" className='text-secondary text-decoration-none'>maliksaad109109@gmail.com</a>
                             </address>
                             <h5 className='footer_heading'>Follow Me</h5>
                             <ul className="list-unstyled">
