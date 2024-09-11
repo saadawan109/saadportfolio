@@ -31,7 +31,7 @@ const Services = () => {
                                         <div className='service-boreder text-center p-3'>
                                             <i class="ri-file-list-2-line ri-3x service-icon"></i>
                                             <h5 className='text-white'>Front end developer</h5>
-                                            <small className='text-secondary'>Create dynamic web applications using HTML, CSS, Bootstrap, and React for the front end, ensuring responsive and user-friendly interfaces.</small>
+                                            <small className='text-secondary'>Create dynamic web applications using HTML, CSS, Bootstrap, Tailwind and React for the front end, ensuring responsive and user-friendly interfaces.</small>
                                         </div>
 
                                     </div>
