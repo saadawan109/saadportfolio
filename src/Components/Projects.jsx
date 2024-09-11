@@ -32,7 +32,7 @@ const Projects = () => {
                                     <p className="card-text text-secondary">
                                         FrontEnd Website About the Painter
                                     </p>
-                                    <a href="https://saadawan109.github.io/painter/" className="btn btn-info text-white btn-sm">
+                                    <a href="https://saadawan109.github.io/painter/" target='_blank' className="btn btn-info text-white btn-sm">
                                         Go To Website
                                     </a>
                                 </div>
@@ -47,7 +47,7 @@ const Projects = () => {
                                     <p className="card-text text-secondary">
                                         FrontEnd Website About the Resturan Managment
                                     </p>
-                                    <a href="https://saadawan109.github.io/projectfood/" className="btn btn-info text-white btn-sm">
+                                    <a href="https://saadawan109.github.io/projectfood/" target='_blank' className="btn btn-info text-white btn-sm">
                                         Go To Website
                                     </a>
                                 </div>
@@ -62,7 +62,7 @@ const Projects = () => {
                                     <p className="card-text text-secondary">
                                         FrontEnd Website About the Furniture
                                     </p>
-                                    <a href="https://saadawan109.github.io/furni-project/" className="btn btn-info text-white btn-sm">
+                                    <a href="https://saadawan109.github.io/furni-project/" target='_blank' className="btn btn-info text-white btn-sm">
                                         Go To Website
                                     </a>
                                 </div>
@@ -78,7 +78,7 @@ const Projects = () => {
                                     <p className="card-text text-secondary">
                                         React Website About the Food Managment
                                     </p>
-                                    <a href="https://restoran-project-seven.vercel.app/" className="btn btn-info text-white btn-sm">
+                                    <a href="https://restoran-project-seven.vercel.app/" target='_blank'  className="btn btn-info text-white btn-sm">
                                         Go To Website
                                     </a>
                                 </div>
