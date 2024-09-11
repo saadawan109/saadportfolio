@@ -76,7 +76,7 @@ const Projects = () => {
                                 <div className="card-body">
                                     <h5 className="card-title text-white">Feani Project</h5>
                                     <p className="card-text text-secondary">
-                                        FrontEnd Website About the Food
+                                        React Website About the Food
                                     </p>
                                     <a href="https://restoran-project-seven.vercel.app/" className="btn btn-info text-white btn-sm">
                                         Go To Website
