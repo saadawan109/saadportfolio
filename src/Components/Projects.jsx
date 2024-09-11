@@ -45,7 +45,7 @@ const Projects = () => {
                                 <div className="card-body">
                                     <h5 className="card-title text-white">Food Project</h5>
                                     <p className="card-text text-secondary">
-                                        FrontEnd Website About the Food
+                                        FrontEnd Website About the Resturan Managment
                                     </p>
                                     <a href="https://saadawan109.github.io/projectfood/" className="btn btn-info text-white btn-sm">
                                         Go To Website
