@@ -1,6 +1,5 @@
 
 import './App.css'
-import Experience from './Components/Experience'
 import Footer from './Components/Footer'
 import Hero from './Components/Hero'
 import MoreAbout from './Components/MoreAbout'
@@ -17,7 +16,6 @@ function App() {
         <Navbar />
         <Hero />
         <Services />
-        <Experience />
         <MoreAbout />
         <Projects />
         <Footer />

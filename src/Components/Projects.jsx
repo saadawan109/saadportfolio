@@ -11,7 +11,7 @@ import feane from "../assets/images/feane.png"
 const Projects = () => {
     return (
         <>
-
+        
             <section className='projects py-5' id='projects'>
 
                 <div className="container">
@@ -32,7 +32,7 @@ const Projects = () => {
                                     <p className="card-text text-secondary">
                                         FrontEnd Website About the Painter
                                     </p>
-                                    <a href="https://saadawan109.github.io/painter/" target='_blank' className="btn btn-info text-white btn-sm">
+                                    <a href="https://saadawan109.github.io/painter/" target='_blank'  className="btn btn-info text-white btn-sm">
                                         Go To Website
                                     </a>
                                 </div>

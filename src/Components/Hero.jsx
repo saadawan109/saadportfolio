@@ -16,9 +16,6 @@ const Hero = () => {
                         <h1 className='hero-name text-white'>M. SAAD TARIQUE</h1>
 
                         <p className='text-secondary py-3'>I am a graduate in Information Technology from Government College University Faisalabad (GCUF), Pakistan. With 1 year of experience in web development, I specialize as a MERN stack developer. My expertise includes creating dynamic and responsive web applications using MongoDB, React, Express.js, and Node.js.</p>
-                        
-                        
-                        <a href="https://drive.google.com/file/d/1VkIqZDJLZz8YT9hnYVlbzb_6Vtu0fDi2/view?usp=drivesdk" target='_blank' className='rounded-pill border-0 btn navBtn text-white py-2'>Hire Me</a>
                             
 
                         
