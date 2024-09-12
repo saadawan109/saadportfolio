@@ -5,12 +5,18 @@ const Services = () => {
     <>
       <section className="services" id="services">
         <div className="container">
+          <div className="text-center py-5">
+            <h2 className="text-white">
+              My <span className="about">Services</span>
+            </h2>
+          </div>
+
           <div className="row py-5">
             <div className="col-md-3 my-2">
               <div className="service-boreder">
                 <div className="service-boreder text-center p-3">
                   <i class="ri-file-list-2-line ri-3x service-icon"></i>
-                  <h5 className="text-white">Front end developer</h5>
+                  <h5 className="text-white">Frontend developer</h5>
                   <small className="text-secondary">
                     Create dynamic web applications using HTML, CSS, Bootstrap,
                     Tailwind and React for the front end, ensuring responsive
@@ -23,7 +29,7 @@ const Services = () => {
               <div className="service-boreder">
                 <div className="service-boreder text-center p-3">
                   <i class="ri-file-list-2-line ri-3x service-icon"></i>
-                  <h5 className="text-white">Back end developer</h5>
+                  <h5 className="text-white">Backend developer</h5>
                   <small className="text-secondary">
                     For the backend, I utilize Node.js and Express.js to build
                     robust server-side applications, and MongoDB for efficient
