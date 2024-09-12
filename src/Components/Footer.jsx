@@ -43,13 +43,13 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-          <div className="row py-2 pt-2 ">
-            <div className="col-md-5">
+          
+            <div className="col-md-5 py-2 pt-2">
               <p className="text-white">
                 @ 2024 Muhammad Saad Tarique All right are reserved
               </p>
             </div>
-          </div>
+          
         </footer>
       </section>
     </>
