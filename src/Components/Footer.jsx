@@ -45,7 +45,7 @@ const Footer = () => {
           </div>
 
           {/* Third Column */}
-          <div className="col-md-5 py-2 pt-2">
+          <div className="col-md-5 py-2 pt-4">
             <p className="text-white">
               @ 2024 Muhammad Saad Tarique All rights are reserved
             </p>
